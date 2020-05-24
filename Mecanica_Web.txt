@@ -1,0 +1,16 @@
+Intrucciones a seguir en la web: 
+
+Administrador: 
+	- Crear serie: para crear una serie antes debemos crear un personal que se encargue de esta misma. 
+	En la pestaña "Personal" de la barra de navegación podremos hacerlo. 
+	Luego, en la página principal, sólo tendremos que rellenar los datos en el recuadro habilitado.
+
+	- Establecer una serie como visible: si queremos hacer una serie visible para los usuarios deberemos antes rellenar los campos descripción y 		fecha de serialización. 
+	Tras esto aparecerá un botón para el habilitado de la serie.
+
+Personal:
+	- Crear capítulo y establecerlo como visible: crear un capítulo es sencillo, rellenando el formulario habilitado en la página principal. 
+	En cuanto a hacerlo visible, tendremos que entrar en el capítulo creado y subir al menos, una imágen de este. Tras esto, aparecerá un botón 		debajo de la última imágen creada para habilitarlo para los usuarios. *OJO*: Este botón no aparecerá si la serie no se ha habilitado.
+
+Usuario: 
+	En principio la mecánica del usuario dependerá de las anteriores, ya que los usuarios sólo verán las series mientras que éstas sea visibles y 		lo mismo con los cápitulos.

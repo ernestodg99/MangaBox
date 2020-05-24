@@ -1,0 +1,153 @@
+.foco input:focus { 
+    outline:none !important;
+    outline-width: 0 !important;
+    box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none; 
+}
+
+.foco2 #boton1, .foco2 #boton2, .foco2 #boton3 {
+    background-color: red; 
+    color: white;
+}
+
+.foco2 #boton1:hover, .foco2 #boton2:hover, .foco2 #boton3:hover{ 
+    background-color: #8B0000; 
+    color: white; 
+}
+
+.manga {
+    background-color: #1E1E1E; 
+    color: #D7D7D7; 
+    border: #D7D7D7 solid; 
+    transition: background-color 1s, color 1s, border 1.25s;
+}
+
+.manga:hover {
+    background-color: #D7D7D7;
+    color: black;
+    border: #D7D7D7 solid;
+}
+
+.manga2 input {
+    background-color: #1E1E1E; 
+    color: yellow;  
+    border: yellow solid; 
+    transition: background-color 1s, color 1s, border 1.25s;
+}
+
+.manga2:hover input{
+    background-color: yellow;
+    color: black;
+    border: yellow solid;
+}
+
+.manga3 input {
+    background-color: #1E1E1E; 
+    color: yellow;  
+    border: yellow solid; 
+    transition: background-color 1s, color 1s, border 1.25s;
+}
+
+.manga3 input:hover{
+    background-color: yellow;
+    color: black;
+    border: yellow solid;
+}
+
+.serie {
+    border: 1px #D7D7D7 solid; 
+    height: 460px; 
+    overflow: hidden;
+}
+
+.serie:hover {
+    border: 1px yellow solid;
+}
+
+.serie p{
+    text-decoration: none;
+    color: #D7D7D7;
+}
+
+.serie2 {
+    color: white; 
+    cursor: pointer;
+}
+
+.serie2:hover p{
+    color: yellow;
+}
+
+.serie2 img{
+    filter:brightness(1);
+}
+
+.serie2:hover img{
+    filter:brightness(0.7);
+}
+
+.serie3 {
+    color: white; 
+    cursor: context-menu;
+}
+
+.serie3:hover p{
+    color: yellow;
+}
+
+.serie4 {
+    border: 1px #D7D7D7 solid; 
+    height: 350px; 
+    overflow: hidden;
+}
+
+.serie4:hover {
+    border: 1px yellow solid;
+}
+
+#nofavorito, #nofavorito2 {
+    color:yellow;
+    cursor: pointer;
+}
+
+#favorito, #favorito2 {
+    color:yellow;
+    cursor: pointer;
+}
+
+.capitulo {
+    border: 1px #D7D7D7 solid;
+    background-color: #1E1E1E; 
+    color: white; 
+    height: 150px; 
+    overflow: hidden;
+}
+
+.capitulo:hover {
+    border: 1px yellow solid;
+    background-color: #1E1E1E; 
+    color: yellow; 
+    height: 150px; 
+    overflow: hidden;
+}
+
+.comentario {
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.comentario:hover {
+    cursor: pointer;
+    color: #bbbbbb;
+}
+
+.registro input{
+    background-color: red; 
+    color: white;
+}
+
+.registro input:hover { 
+    background-color: #8B0000; 
+    color: white; 
+}
